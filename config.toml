@@ -1,0 +1,103 @@
+## Basic Configuration
+
+baseurl = "http://nischalshrestha.me"
+title = "Nischal Shrestha"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Nischal Shrestha"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+##disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+##googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Nischal Shrestha"
+intro = "Computer Science PhD Student"
+description = "Software Engineering Research @ NC State University."
+authorimage = "propica.jpeg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Simple minimalist theme"
+keywords = "minimalist,blog,goa,hugo,developer"
+
+## Social Accounts
+[params.social]
+twitter = "nischaldesign"
+github = "nischalshrestha"
+email = "nshrest@ncsu.edu"
+# googlescholar = "HGu73BYAAAAJ"
+
+#instagram = "<username>"
+#xing = "<username>"
+#linkedin = "<username>"
+#facebook = "<username>"
+#google = "<username>"
+
+#stackoverflow = "<username>"
+#lastfm = "<username>"
+#goodreads = "<username>"
+#gitlab = "<username>"
+#bitbucket = "<username>"
+#fivehundredpx = "<username>"
+#flickr = "<username>"
+#foursquare = "<username>"
+#hackernews = "<username>"
+#kickstarter = "<username>"
+#patreon = "<username>"
+#pintrest = "<username>"
+#steam = "<username>"
+#reddit = "<username>"
+#snapchat = "<username>"
+#youtube = "<channelid>"
+#keybase = "<username>"
+#twitch = "<username>"
+#soundcloud = "<username>"
+#tumblr = "<username>"
+#strava = "<username>"
+#kype = "<username>"
+#telegram = "<username>"
+#whatsapp = "<username>"
+#pgp = "<key_fingerprint>"
+
+## Extras
+[params.extra]
+copyright = "© 2020. Nischal Shrestha."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = true
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 100
+    url = "/about/"
+[[menu.main]]
+    name = "publications"
+    identifier = "publications"
+    weight = 200
+    url = "/publications/"
+[[menu.main]]
+    name = "teaching"
+    weight = 300
+    identifier = "teaching"
+    url = "/teaching/"
+[[menu.main]]
+    name = "blog"
+    weight = 400
+    identifier = "blog"
+    url = "/blog/"
