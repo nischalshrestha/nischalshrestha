@@ -26,6 +26,6 @@ draft: false
 **It's Like Python But: Towards Supporting Transfer of Programming Language Knowledge** Nischal Shrestha, Titus Barik and Chris Parnin. *2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)* [[DOI](https://doi.org/10.1109/VLHCC.2018.8506508) | [PDF](http://nischalshrestha.me/docs/ItsLikePythonBut.pdf)]
 > We explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages.
 
-**Towards Supporting Knowledge Transfer of Programming Language Knowledge** Nischal Shrestha. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC) [[DOI](https://doi.org/10.1109/VLHCC.2018.8506510) | [PDF](http://nischalshrestha.me/docs/TowardsSupportingKnowledgeTransfer.pdf)]
+**Towards Supporting Knowledge Transfer of Programming Language Knowledge** Nischal Shrestha. *2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)* [[DOI](https://doi.org/10.1109/VLHCC.2018.8506510) | [PDF](http://nischalshrestha.me/docs/TowardsSupportingKnowledgeTransfer.pdf)]
 > I outline the current research on learning transfer for programming languages and provide first steps for better transfer support.
 
