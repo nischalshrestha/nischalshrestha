@@ -9,7 +9,7 @@ draft: false
 ---
 
 **Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language?** Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. *ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering.* [[DOI](https://doi.org/10.1145/3377811.3380352) | [PDF](http://nischalshrestha.me/docs/cross_language_interference.pdf)]
-> We find that programming language knowledge can interfere with learning another programming language.
+> We found that previous programming language knowledge can interfere with learning another programming language.
 
 ## 2019
 ---
