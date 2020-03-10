@@ -18,6 +18,7 @@ draft: false
 > I mentored [Colton Botta](https://twitter.com/colton_botta) who went on to use his research skills to collaborate with me on my ICSE [paper](http://nischalshrestha.me/docs/cross_language_interference.pdf)!
 
 ### 2017
+---
 
 **CSC 116: Introduction to Computing - Java (Online Section)**
 
