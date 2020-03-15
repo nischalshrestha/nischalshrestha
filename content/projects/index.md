@@ -6,7 +6,7 @@ draft: false
 **Transfer Tutor**
 ---
 
-> A small prototype web [app]((http://167.71.94.110:3000)) that I built using JS to study the usefulness of teaching R from the perspective of Python. Participants found that relating R to their more familiar Python language was useful and they found the incremental stepping through the code helpful.
+> A small prototype web [app](http://167.71.94.110:3000) that I built using JS to study the usefulness of teaching R from the perspective of Python. Participants found that relating R to their more familiar Python language was useful and they found the incremental stepping through the code helpful. **Note:** *You can skip all screens with google forms, which were used for the study itself.*
 
 **py2r**
 ---
