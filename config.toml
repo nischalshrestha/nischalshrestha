@@ -92,6 +92,11 @@ displayrssicon = true
     weight = 200
     url = "/publications/"
 [[menu.main]]
+    name = "projects"
+    weight = 300
+    identifier = "projects"
+    url = "/projects/"
+[[menu.main]]
     name = "teaching"
     weight = 300
     identifier = "teaching"
