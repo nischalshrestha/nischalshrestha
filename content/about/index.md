@@ -7,4 +7,4 @@ Nischal is a PhD student at NC State University. His research interests lie in t
 
 ---
 
-Outside of work, he enjoys powerlifting, reading books, watching movies and playing or listening to music.
+Outside of work, he enjoys powerlifting, reading books, watching movies and listening to or [playing](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/about) music.
