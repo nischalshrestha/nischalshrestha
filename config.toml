@@ -15,7 +15,7 @@ author = "Nischal Shrestha"
 theme = "hugo-goa"
 
 ## Hugo Built-in Features
-disqusShortname = "http-nischalshrestha-me.disqus.com" # Comment out to disable Disqus.
+# disqusShortname = "http-nischalshrestha-me.disqus.com" # Comment out to disable Disqus.
 googleAnalytics = "UA-161139214-1"
 enableRobotsTXT = true
 
