@@ -7,7 +7,7 @@ Nischal is a PhD student at NC State University. His research interests lie in t
 
 ~
 
-For the summer of 2020, Nischal will be working with [Alison Hill](https://alison.rbind.io) and [Greg Wilson](https://third-bit.com) on interactive tutorials in Python.
+For the summer of 2020, Nischal will be working at RStudio with [Alison Hill](https://alison.rbind.io) and [Greg Wilson](https://third-bit.com) on interactive tutorials in Python.
 
 ---
 
