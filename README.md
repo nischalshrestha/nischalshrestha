@@ -6,15 +6,21 @@ I enjoy applying HCI research to build tools for teaching programming languages 
 
 ---
 
-**software** :man_technologist: 
+**Software** :man_technologist: 
 
-I work on open source packages around interactive tutorials and grading:
+I work on open source packages around interactive tutorials and autograding :apple:
 
 - [rstudio/learnr](https://github.com/rstudio/learnr): interactive tutorials for data science.
 - [nischalshrestha/gradethispython](https://github.com/nischalshrestha/gradethispython) + [nischalshrestha/pygradethis](https://github.com/nischalshrestha/pygradethis): Python autograding tools.
 
+I also enjoy combining my interest in music with code :notes:	
+
+- [nischalshrestha/YAMS](https://github.com/nischalshrestha/YAMS): audio synthesis in Python.
+- [nischalshrestha/kashikoi](https://github.com/nischalshrestha/kashikoi): music theory friend.
+- [sonic pi jams](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/videos): some of my Sonic Pi compositions.
+
 ---
 
-**contact** :mailbox:
+**Contact** :mailbox:
 
 Please feel to reach out at by [email](mailto:nsrocker92@gmail.com) or on my social media [@nischaldesign](https://twitter.com/nischaldesign). 
