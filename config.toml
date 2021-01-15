@@ -87,6 +87,11 @@ displayrssicon = true
     weight = 100
     url = "/about/"
 [[menu.main]]
+    name = "CV"
+    weight = 400
+    identifier = "CV"
+    url = "http://nischalshrestha.me/docs/CV.pdf"
+[[menu.main]]
     name = "publications"
     identifier = "publications"
     weight = 200

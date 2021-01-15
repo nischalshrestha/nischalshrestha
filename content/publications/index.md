@@ -5,7 +5,15 @@ draft: false
 
 [Google Scholar](https://scholar.google.com/citations?user=HGu73BYAAAAJ&hl=en)
 
-## 2020
+# 2021
+---
+
+**Remote, but connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists.** Nischal Shrestha, Titus Barik and Chris Parnin. To appear in *CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* 
+
+[Preprint](http://nischalshrestha.me/docs/tidytuesday.pdf)
+> Through semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP.
+
+# 2020
 ---
 
 **Here We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language?** Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. *ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering.* {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award. 
@@ -13,7 +21,7 @@ draft: false
 [[DOI](https://doi.org/10.1145/3377811.3380352) | [PDF](http://nischalshrestha.me/docs/cross_language_interference.pdf) | [Talk](https://t.co/lK34TjFAJn?amp=1)]
 > We found that previous programming language knowledge can interfere with learning another programming language.
 
-## 2019
+# 2019
 ---
 
 **Instrument Designs for Validating Cross-Language Behavioral Differences** Nischal Shrestha and Chris Parnin. *2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)* 
@@ -26,7 +34,7 @@ draft: false
 [[DOI](https://doi.org/10.1109/ICPC.2019.00039) | [PDF](https://ginabai.github.io/PaperPreprints/icpc2019_RegexVideo.pdf)]
 > We conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition.
 
-## 2018
+# 2018
 ---
 
 **It's Like Python But: Towards Supporting Transfer of Programming Language Knowledge** Nischal Shrestha, Titus Barik and Chris Parnin. *2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)* 
