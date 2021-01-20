@@ -2,13 +2,13 @@
 
 I am Nischal, a Python/R developer and a Computer Science PhD student. 
 
-I enjoy applying HCI research to build tools for teaching programming languages effectively and efficiently.
+I enjoy applying HCI research to build tools for software engineers and data science educators.
 
 ---
 
 **Software** :man_technologist: 
 
-I work on open source packages around interactive tutorials and autograding, specifically for data science. :apple:
+I have worked on open source packages around interactive tutorials and autograding, specifically for data science. :apple:
 
 - [rstudio/learnr](https://github.com/rstudio/learnr): interactive tutorials for data science.
 - [nischalshrestha/gradethispython](https://github.com/nischalshrestha/gradethispython) + [nischalshrestha/pygradethis](https://github.com/nischalshrestha/pygradethis): Python autograding tools.
