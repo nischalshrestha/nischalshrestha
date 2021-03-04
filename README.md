@@ -2,7 +2,7 @@
 
 I am Nischal, a Python/R developer and a Computer Science PhD student. 
 
-I enjoy applying HCI research to build tools for software engineers and data scientists, and educators.
+I enjoy applying HCI research to build useful tools for software engineers, data scientists, and computer science educators.
 
 ---
 
