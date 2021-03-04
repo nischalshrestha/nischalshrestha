@@ -1,4 +1,4 @@
-# Hello :wave:
+# Hello! :wave:
 
 I am Nischal, a Python/R developer and a Computer Science PhD student. 
 
@@ -24,4 +24,4 @@ I also enjoy combining my interest in music with code. :notes:
 
 **Contact** :mailbox:
 
-Please feel to reach out at by [email](mailto:nsrocker92@gmail.com) or on my social media [@nischaldesign](https://twitter.com/nischaldesign). 
+Please feel to reach out via [email](mailto:nsrocker92@gmail.com) or twitter [@nischaldesign](https://twitter.com/nischaldesign).
