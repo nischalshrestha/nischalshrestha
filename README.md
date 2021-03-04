@@ -11,6 +11,7 @@ I enjoy applying HCI research to build useful tools for software engineers, data
 I have worked on open source packages around interactive tutorials and autograding, specifically for data science. :apple:
 
 - [rstudio/learnr](https://github.com/rstudio/learnr): interactive tutorials for data science.
+- [rstudio/ggcheck](https://github.com/rstudio/ggcheck): autograder for [`{ggplot2}`](https://ggplot2.tidyverse.org/index.html) plots.
 - [nischalshrestha/gradethispython](https://github.com/nischalshrestha/gradethispython) + [nischalshrestha/pygradethis](https://github.com/nischalshrestha/pygradethis): Python autograding tools.
 
 I also enjoy combining my interest in music with code. :notes:	
