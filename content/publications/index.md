@@ -10,7 +10,7 @@ draft: false
 
 **Remote, but connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists.** Nischal Shrestha, Titus Barik and Chris Parnin. To appear in *CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* 
 
-[Preprint](http://nischalshrestha.me/docs/tidytuesday.pdf)
+[[DOI](https://doi.org/10.1145/3449126) | [PDF](http://nischalshrestha.me/docs/tidytuesday.pdf)]
 > Through semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP.
 
 # 2020
