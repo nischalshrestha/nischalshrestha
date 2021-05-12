@@ -1,17 +1,19 @@
-# Hello :wave:
+# Hello! :wave:
 
 I am Nischal, a Python/R developer and a Computer Science PhD student. 
 
-I enjoy applying HCI research to build tools for teaching programming languages effectively and efficiently.
+I enjoy applying HCI research to build useful tools for software engineers, data scientists, and computer science educators.
 
 ---
 
 **Software** :man_technologist: 
 
-I work on open source packages around interactive tutorials and autograding, specifically for data science. :apple:
+I have worked on open source packages around interactive tutorials and autograding, specifically for data science. :apple:
 
 - [rstudio/learnr](https://github.com/rstudio/learnr): interactive tutorials for data science.
+- [rstudio/ggcheck](https://github.com/rstudio/ggcheck): autograder for [`{ggplot2}`](https://ggplot2.tidyverse.org/index.html) plots.
 - [nischalshrestha/gradethispython](https://github.com/nischalshrestha/gradethispython) + [nischalshrestha/pygradethis](https://github.com/nischalshrestha/pygradethis): Python autograding tools.
+- [nischalshrestha/DataTutor](https://github.com/nischalshrestha/DataTutor): Tools to help understand data science code.
 
 I also enjoy combining my interest in music with code. :notes:	
 
@@ -23,4 +25,4 @@ I also enjoy combining my interest in music with code. :notes:
 
 **Contact** :mailbox:
 
-Please feel to reach out at by [email](mailto:nsrocker92@gmail.com) or on my social media [@nischaldesign](https://twitter.com/nischaldesign). 
+Please feel to reach out via [email](mailto:nsrocker92@gmail.com) or twitter [@nischaldesign](https://twitter.com/nischaldesign).
