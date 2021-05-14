@@ -73,7 +73,7 @@ email = "nshrest@ncsu.edu"
 
 ## Extras
 [params.extra]
-copyright = "© 2020. Nischal Shrestha."
+copyright = "© 2021. Nischal Shrestha."
 poweredby = true
 highlightjs = true
 socialmarkup = true

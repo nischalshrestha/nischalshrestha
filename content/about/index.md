@@ -3,14 +3,12 @@ title: "About"
 draft: false
 ---
 
-Nischal is a PhD student at NC State University. His research interests lie in the intersection of human-computer interaction, software engineering and programming languages. In particular, Nischal researches new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently. Nischal works with [Chris Parnin](http://chrisparnin.me) in the alt-code lab.
+I am currently a PhD student at NC State University. My research interests lie in the intersection of human-computer interaction, software engineering and programming languages. In particular, I research new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently with [Chris Parnin](http://chrisparnin.me) in the alt-code lab.
 
 ---
 
-Nischal has been working on interactive tools to help understand and debug code in the data science context. Nischal is currently an intern at RStudio, working on data science tutorial packages like [learnr](https://rstudio.github.io/learnr/index.html), or [ggcheck](https://github.com/rstudio/ggcheck/). 
-
-He is also interested on building tools that help communicate and teach data wrangling operations, an important but time-consuming process which could benefit from automated and explicit guidance. Please feel free to reach out if you are active in these areas and would like to discuss ideas!
+I have been working on interactive tools to help understand and debug code in the data science context. During my internship at RStudio from 2020-2021, I worked on data science packages like [learnr](https://rstudio.github.io/learnr/index.html), or [ggcheck](https://github.com/rstudio/ggcheck/) to facilitate grading for interactive tutorials. For the summer of 2021, I will be interning at Microsoft with [Denae Ford Robinson](http://denaeford.me) and [Thomas Zimmerman](https://thomas-zimmermann.com) with the [Productivity and Intelligence](https://www.microsoft.com/en-us/research/group/productivity-and-intelligence/), and the [SAINTES](https://www.microsoft.com/en-us/research/group/saintes-group/) groups, working on improving the OSS experience.
 
 ---
 
-Outside of work, he enjoys hanging out with friends and family, long walks, kickboxing, reading books, watching/discussing movies, listening to or [playing](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/about) music, and coding for fun. 🤓
+Outside of work, I enjoy hanging out with my friends and family, taking long walks, kickboxing, reading books, watching/discussing movies, listening to or [playing](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/about) music, and coding for fun.
