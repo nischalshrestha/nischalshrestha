@@ -13,7 +13,7 @@ I have worked on open source packages around interactive tutorials and autogradi
 - [rstudio/learnr](https://github.com/rstudio/learnr): interactive tutorials for data science.
 - [rstudio/ggcheck](https://github.com/rstudio/ggcheck): autograder for [`{ggplot2}`](https://ggplot2.tidyverse.org/index.html) plots.
 - [nischalshrestha/gradethispython](https://github.com/nischalshrestha/gradethispython) + [nischalshrestha/pygradethis](https://github.com/nischalshrestha/pygradethis): Python autograding tools.
-- [nischalshrestha/Unravel](https://github.com/nischalshrestha/Unravel):A fluent code explorer for R.
+- [nischalshrestha/Unravel](https://github.com/nischalshrestha/Unravel): A fluent code explorer for R.
 
 I also enjoy combining my interest in music with code. :notes:	
 
