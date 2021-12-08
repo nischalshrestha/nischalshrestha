@@ -3,6 +3,11 @@ title: "Projects"
 draft: false
 ---
 
+# Unravel
+
+> [Unravel](https://github.com/nischalshrestha/Unravel) is a project that explores interactive exploration of data science code written in R. Unravel ([paper](http://nischalshrestha.me/docs/unravel.pdf) + [talk](https://www.youtube.com/watch?v=wJ77e39XVEs)), enables data scientists to interactively inspect, understand and explore data wrangling code written using a [fluent API](https://www.martinfowler.com/bliki/FluentInterface.html) like the [tidyverse](https://www.tidyverse.org).    
+
+
 # pygradethis 
 
 > [pygradethis](https://github.com/nischalshrestha/pygradethis) is a Python autograder to facilitate code output and static code checking. This package is inspired by Daniel Chen's [gradethis](https://rstudio-education.github.io/gradethis/). It is designed to be minimal and can be used for Python only, or within [learnr](https://rstudio.github.io/learnr/index.html) for Python exercise checking through the [gradethispython](https://github.com/nischalshrestha/gradethispython) R wrapper package.

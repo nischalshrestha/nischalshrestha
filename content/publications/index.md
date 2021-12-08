@@ -8,9 +8,14 @@ draft: false
 # 2021
 ---
 
-**Remote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists.** Nischal Shrestha, Titus Barik and Chris Parnin. To appear in *CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* 
+**Unravel: A Fluent Code Explorer for Data Wrangling.** Nischal Shrestha, Titus Barik and Chris Parnin. To appear in *UIST 2021: 34th ACM Symposium on User Interface Software and Technology* 
 
-[[DOI](https://doi.org/10.1145/3449126) | [PDF](http://nischalshrestha.me/docs/tidytuesday.pdf)]
+[[DOI](https://doi.org/10.1145/3472749.3474744) | [PDF](http://nischalshrestha.me/docs/unravel.pdf) | [Talk](https://www.youtube.com/watch?v=wJ77e39XVEs)]
+> We built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.
+
+**Remote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists.** Nischal Shrestha, Titus Barik and Chris Parnin. *CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing* 
+
+[[DOI](https://doi.org/10.1145/3449126) | [PDF](http://nischalshrestha.me/docs/tidytuesday.pdf) | [Talk](https://youtu.be/kMm4tKKOtjU)] 
 > Through semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP.
 
 # 2020
