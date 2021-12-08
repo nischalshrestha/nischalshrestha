@@ -1,8 +1,8 @@
 # Hello! :wave:
 
-I am Nischal, a Python/R developer and a Computer Science PhD student. 
+I am Nischal, a Python/R developer and a Computer Science PhD candidate at NC State University. 
 
-I enjoy applying HCI research to build useful tools for software engineers, data scientists, and computer science educators.
+I enjoy building useful tools for software engineers, data scientists, and computer science educators.
 
 ---
 
