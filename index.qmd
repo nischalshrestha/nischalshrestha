@@ -1,0 +1,18 @@
+---
+title: "Nischal Shrestha"
+draft: false
+---
+
+<img src="static/img/propica.jpg" alt="Selfie at the hex sticker wall at rstudio::conf2022" width="80%"/>
+
+Hi, I'm Nischal! I love using Python, R, and JavaScript to build fun and useful tools for data scientists. Currently, I'm a Data Science Educator at RStudio where I'm building autograding tools for [Academy](https://www.rstudio.com/academy/). During my internship at RStudio from 2020-2021, I worked on data science packages like [learnr](https://rstudio.github.io/learnr/index.html), or [ggcheck](https://github.com/rstudio/ggcheck/) to facilitate grading for interactive tutorials.
+
+---
+
+I did my PhD at North Carolina State University from 2016-2022. My research interests were mainly in the intersection of human-computer interaction, software engineering and programming languages. In particular, I researched new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently with [Chris Parnin](http://chrisparnin.me) in the alt-code lab. You can read my [dissertation](https://repository.lib.ncsu.edu/handle/1840.20/39802?show=full) to learn more! 
+
+---
+
+Outside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or [playing](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/about) music, and coding for fun.
+
+---

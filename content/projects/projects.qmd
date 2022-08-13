@@ -1,0 +1,12 @@
+---
+title: "Projects"
+draft: false
+---
+
+# Unravel
+
+<img src="../../static/img/UnravelGestalt.jpg" alt="A gestalt art of Unravel" width="80%"/>
+
+> [Unravel](https://github.com/nischalshrestha/Unravel) is a project that explores interactive exploration of data science code written in R. Unravel ([paper](http://nischalshrestha.me/docs/unravel.pdf) + [talk](https://www.youtube.com/watch?v=wJ77e39XVEs)), enables data scientists to interactively inspect, understand and explore data wrangling code written using a [fluent API](https://www.martinfowler.com/bliki/FluentInterface.html) like the [tidyverse](https://www.tidyverse.org).
+
+(more to come!)

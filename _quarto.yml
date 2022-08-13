@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Nischal Shrestha"
+  navbar:
+    background: primary
+    contents: content
+    left:
+      - href: content/projects/projects.qmd
+        text: Projects
+      - href: content/pubs/pubs.qmd
+        text: Publications
+
+listing:
+  contents: content/blog
+  sort: "date desc"
+  type: default
+  categories: true
+
+format:
+  html:
+    theme: lux
+    css: styles.css
+    toc: true

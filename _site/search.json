@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nischal Shrestha",
+    "section": "",
+    "text": "Hi, I’m Nischal! I love using Python, R, and JavaScript to build fun and useful tools for data scientists. Currently, I’m a Data Science Educator at RStudio where I’m building autograding tools for Academy. During my internship at RStudio from 2020-2021, I worked on data science packages like learnr, or ggcheck to facilitate grading for interactive tutorials.\n\nI did my PhD at North Carolina State University from 2016-2022. My research interests were mainly in the intersection of human-computer interaction, software engineering and programming languages. In particular, I researched new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or playing music, and coding for fun.\n\n\n\n\n\n\n\n\n\n\n\nLearning learnr: a primer.\n\n\n\n\n\nI wrote a blog post on the RStudio Education blog about how to reason about the learnr. I outline the basic architecture and the tech stacks involved with learnr and a “simple” way to think about the package.\n\n\n\n\n\n\nJul 27, 2020\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I did my PhD at North Carolina State University from 2016-2022. My research interests were mainly in the intersection of human-computer interaction, software engineering and programming languages. In particular, I researched new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or playing music, and coding for fun.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/publications/index.html",
+    "href": "content/publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "content/publications/index.html#section",
+    "href": "content/publications/index.html#section",
+    "title": "Publications",
+    "section": "# 2021",
+    "text": "# 2021\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk] > We built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk] > Through semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP."
+  },
+  {
+    "objectID": "content/publications/index.html#section-1",
+    "href": "content/publications/index.html#section-1",
+    "title": "Publications",
+    "section": "# 2020",
+    "text": "# 2020\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk] > We found that previous programming language knowledge can interfere with learning another programming language."
+  },
+  {
+    "objectID": "content/publications/index.html#section-2",
+    "href": "content/publications/index.html#section-2",
+    "title": "Publications",
+    "section": "# 2019",
+    "text": "# 2019\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > We designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF] > We conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition."
+  },
+  {
+    "objectID": "content/publications/index.html#section-3",
+    "href": "content/publications/index.html#section-3",
+    "title": "Publications",
+    "section": "# 2018",
+    "text": "# 2018\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > We explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages.\nTowards Supporting Knowledge Transfer of Programming Language Knowledge Nischal Shrestha. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > I outline the current research on learning transfer for programming languages and provide first steps for better transfer support."
+  },
+  {
+    "objectID": "content/projects/index.html",
+    "href": "content/projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Unravel is a project that explores interactive exploration of data science code written in R. Unravel (paper + talk), enables data scientists to interactively inspect, understand and explore data wrangling code written using a fluent API like the tidyverse."
+  },
+  {
+    "objectID": "content/projects/index.html#py2r",
+    "href": "content/projects/index.html#py2r",
+    "title": "Projects",
+    "section": "# py2r",
+    "text": "# py2r\n\nAn interactive lesson using learnr which can be used to teach Python programmers the basics of dataframe manipulation in R (base or tidyverse). The tutorial is different from others because it provides interactivity via code exercises to reinforce facts about R and relates to Python code / output using reticulate. The tutorial also points out “gotchas” when making the transition, as well as pointing out the advantages of tidyverse (dplyr). [Source]"
+  },
+  {
+    "objectID": "content/projects/index.html#transfer-tutor",
+    "href": "content/projects/index.html#transfer-tutor",
+    "title": "Projects",
+    "section": "# Transfer Tutor",
+    "text": "# Transfer Tutor\n\nA small prototype web app that I built using JS to study the usefulness of teaching R from the perspective of Python. Participants found that relating R to their more familiar Python language was useful and they found the incremental stepping through the code helpful. Note: You can skip all screens with google forms, which were used for the study itself."
+  },
+  {
+    "objectID": "content/projects/index.html#automatic-wat-discovery",
+    "href": "content/projects/index.html#automatic-wat-discovery",
+    "title": "Projects",
+    "section": "# Automatic WAT Discovery",
+    "text": "# Automatic WAT Discovery\n\nThis is an ongoing project to automatically discover code behavior inconsistencies (WATs) between Python and R using corpus from Kaggle. The project makes use of rpy2 to parse through simple one-liner snippets across the Python and R notebooks. Once parsed, the snippets for each language are executed against generated or provided data. Finally, dataframe outputs are compared between Python and R snippets, using basic metrics like row/column dimensions, cell values and syntactic edit distance."
+  },
+  {
+    "objectID": "content/about/index.html",
+    "href": "content/about/index.html",
+    "title": "Nischal Shrestha",
+    "section": "",
+    "text": "I did my PhD at North Carolina State University from 2016-2022. My research interests were mainly in the intersection of human-computer interaction, software engineering and programming languages. In particular, I researched new instructional techniques and tools that can help programmers learn programming languages effectively and efficiently with Chris Parnin in the alt-code lab. You can read my dissertation to learn more!\n\nOutside of work, I enjoy hanging out with my friends and family, running, lifting, watching/discussing tv shows/movies, listening to or playing music, and coding for fun.\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/blog/learnr.html",
+    "href": "content/blog/learnr.html",
+    "title": "Learning learnr: a primer.",
+    "section": "",
+    "text": "In the second post, I will dive into the details behind the experience adding multi-language support, and setup code chaining. I will also talk about recent Python challenges for exercise checking in the third post, so keep an eye out!\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "content/teaching/index.html",
+    "href": "content/teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "CSC 116: Introduction to Computing - Java\n\nI taught an introductory course in computer science using Java, which I really enjoyed! It was the first time I was in full charge of lecturing, making exams and trying out live coding in front of the class."
+  },
+  {
+    "objectID": "content/teaching/index.html#section-1",
+    "href": "content/teaching/index.html#section-1",
+    "title": "Teaching",
+    "section": "### 2018",
+    "text": "### 2018\nMentor for REU (Research Experience for Undergraduates)\n\nI mentored Colton Botta who went on to use his research skills to collaborate with me on my ICSE paper!"
+  },
+  {
+    "objectID": "content/teaching/index.html#section-2",
+    "href": "content/teaching/index.html#section-2",
+    "title": "Teaching",
+    "section": "### 2017",
+    "text": "### 2017\nCSC 116: Introduction to Computing - Java (Online Section)\n\nThis was the course where I learned how to work with students and the instructor all remotely."
+  },
+  {
+    "objectID": "content/teaching/index.html#section-3",
+    "href": "content/teaching/index.html#section-3",
+    "title": "Teaching",
+    "section": "### 2016",
+    "text": "### 2016\nCSC 216: Programming Concepts in Java\n\nMy first experience teaching a lab section. It was a lot of fun because it required a lot of debugging help for students wrestling with Java as well as IDE issues (Oh Eclipse!)."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "pubs.html",
+    "href": "pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "pubs.html#section",
+    "href": "pubs.html#section",
+    "title": "Publications",
+    "section": "# 2021",
+    "text": "# 2021\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk]\n\nWe built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\n\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk]\n\nThrough semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP."
+  },
+  {
+    "objectID": "pubs.html#section-1",
+    "href": "pubs.html#section-1",
+    "title": "Publications",
+    "section": "# 2020",
+    "text": "# 2020\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk]\n\nWe found that previous programming language knowledge can interfere with learning another programming language."
+  },
+  {
+    "objectID": "pubs.html#section-2",
+    "href": "pubs.html#section-2",
+    "title": "Publications",
+    "section": "# 2019",
+    "text": "# 2019\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\n\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF]\n\nWe conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition."
+  },
+  {
+    "objectID": "pubs.html#section-3",
+    "href": "pubs.html#section-3",
+    "title": "Publications",
+    "section": "# 2018",
+    "text": "# 2018\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages."
+  },
+  {
+    "objectID": "content/publications/pubs.html",
+    "href": "content/publications/pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "content/publications/pubs.html#section",
+    "href": "content/publications/pubs.html#section",
+    "title": "Publications",
+    "section": "# 2021",
+    "text": "# 2021\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk]\n\nWe built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\n\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk]\n\nThrough semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP."
+  },
+  {
+    "objectID": "content/publications/pubs.html#section-1",
+    "href": "content/publications/pubs.html#section-1",
+    "title": "Publications",
+    "section": "# 2020",
+    "text": "# 2020\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk]\n\nWe found that previous programming language knowledge can interfere with learning another programming language."
+  },
+  {
+    "objectID": "content/publications/pubs.html#section-2",
+    "href": "content/publications/pubs.html#section-2",
+    "title": "Publications",
+    "section": "# 2019",
+    "text": "# 2019\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\n\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF]\n\nWe conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition."
+  },
+  {
+    "objectID": "content/publications/pubs.html#section-3",
+    "href": "content/publications/pubs.html#section-3",
+    "title": "Publications",
+    "section": "# 2018",
+    "text": "# 2018\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages."
+  },
+  {
+    "objectID": "content/projects/projects.html",
+    "href": "content/projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "content/pubs/pubs.html",
+    "href": "content/pubs/pubs.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "content/pubs/pubs.html#section",
+    "href": "content/pubs/pubs.html#section",
+    "title": "Publications",
+    "section": "# 2021",
+    "text": "# 2021\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk]\n\nWe built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\n\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk]\n\nThrough semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP."
+  },
+  {
+    "objectID": "content/pubs/pubs.html#section-1",
+    "href": "content/pubs/pubs.html#section-1",
+    "title": "Publications",
+    "section": "# 2020",
+    "text": "# 2020\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk]\n\nWe found that previous programming language knowledge can interfere with learning another programming language."
+  },
+  {
+    "objectID": "content/pubs/pubs.html#section-2",
+    "href": "content/pubs/pubs.html#section-2",
+    "title": "Publications",
+    "section": "# 2019",
+    "text": "# 2019\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\n\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF]\n\nWe conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition."
+  },
+  {
+    "objectID": "content/pubs/pubs.html#section-3",
+    "href": "content/pubs/pubs.html#section-3",
+    "title": "Publications",
+    "section": "# 2018",
+    "text": "# 2018\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF]\n\nWe explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages."
+  },
+  {
+    "objectID": "content/pubs/index.html",
+    "href": "content/pubs/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar"
+  },
+  {
+    "objectID": "content/pubs/index.html#section",
+    "href": "content/pubs/index.html#section",
+    "title": "Publications",
+    "section": "# 2021",
+    "text": "# 2021\nUnravel: A Fluent Code Explorer for Data Wrangling. Nischal Shrestha, Titus Barik and Chris Parnin. To appear in UIST 2021: 34th ACM Symposium on User Interface Software and Technology\n[DOI | PDF | Talk] > We built a tool called Unravel to help data scientists understand and explore fluent code via structured edits using drag-and-drop and toggle switch interactions. Through a think-aloud user study with 14 data scientists, we found that Unravel facilitated diverse activities such as validating assumptions about the code or data, exploring alternatives, and understanding function behavior.\nRemote, but Connected: How #TidyTuesday Provides an Online Community of Practice for Data Scientists. Nischal Shrestha, Titus Barik and Chris Parnin. CSCW 2021: 24th ACM Conference on Computer-Supported Cooperative Work and Social Computing\n[DOI | PDF | Talk] > Through semi-structured interviews with 26 data scientists, we uncovered motivations behind their participation in #TidyTuesday, how the project benefited them, and how it cultivated an online CoP."
+  },
+  {
+    "objectID": "content/pubs/index.html#section-1",
+    "href": "content/pubs/index.html#section-1",
+    "title": "Publications",
+    "section": "# 2020",
+    "text": "# 2020\nHere We Go Again: Why Is It Difficult for Developers to Learn Another Programming Language? Nischal Shrestha, Colton Botta, Titus Barik and Chris Parnin. ICSE 2020: 42nd ACM/IEEE International Conference on Software Engineering. {{< fa trophy >}} Won an ACM SIGSOFT Distinguished Paper Award.\n[DOI | PDF | Talk] > We found that previous programming language knowledge can interfere with learning another programming language."
+  },
+  {
+    "objectID": "content/pubs/index.html#section-2",
+    "href": "content/pubs/index.html#section-2",
+    "title": "Publications",
+    "section": "# 2019",
+    "text": "# 2019\nInstrument Designs for Validating Cross-Language Behavioral Differences Nischal Shrestha and Chris Parnin. 2019 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > We designed three instruments that can help identify and validate meaningful behavior differences between two languages to pinpoint potential misconceptions.\nExploring Tools and Strategies Used During Regular Expression Composition Tasks Gina R. Bai, Brian Clee, Nischal Shrestha, Carl Chapman, Cimone Wright, Kathryn T. Stolee. 2019 IEEE/ACM 27th International Conference on Program Comprehension (ICPC)\n[DOI | PDF] > We conducted an exploratory case study to reveal the tools and strategies developers use during regular expression composition."
+  },
+  {
+    "objectID": "content/pubs/index.html#section-3",
+    "href": "content/pubs/index.html#section-3",
+    "title": "Publications",
+    "section": "# 2018",
+    "text": "# 2018\nIt’s Like Python But: Towards Supporting Transfer of Programming Language Knowledge Nischal Shrestha, Titus Barik and Chris Parnin. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > We explored a prototype transfer tool to support learning new programming languages, given experience in one or more languages.\nTowards Supporting Knowledge Transfer of Programming Language Knowledge Nischal Shrestha. 2018 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)\n[DOI | PDF] > I outline the current research on learning transfer for programming languages and provide first steps for better transfer support."
+  }
+]

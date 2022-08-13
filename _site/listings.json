@@ -1,0 +1,48 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/content/blog/learnr.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": []
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/pubs.html",
+    "items": []
+  },
+  {
+    "listing": "/content/projects/index.html",
+    "items": []
+  },
+  {
+    "listing": "/content/publications/pubs.html",
+    "items": []
+  },
+  {
+    "listing": "/content/projects/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/content/about/index.html",
+    "items": []
+  },
+  {
+    "listing": "/content/pubs/pubs.html",
+    "items": []
+  },
+  {
+    "listing": "/content/pubs/index.html",
+    "items": []
+  },
+  {
+    "listing": "/content/blog/learnr.html",
+    "items": []
+  }
+]
