@@ -2,7 +2,7 @@
 
 I am Nischal, a Python/R developer.
 
-I enjoy building useful tools for software engineers, data scientists, and educators.
+I enjoy building useful tools for software engineers, data scientists, educators, and musicians.
 
 ---
 
