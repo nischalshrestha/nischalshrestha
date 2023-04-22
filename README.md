@@ -16,8 +16,7 @@ I have worked on open source packages around interactive tutorials, autograders,
 
 I also enjoy combining my interest in music with code. :notes:	
 
-- [nischalshrestha/YAMS](https://github.com/nischalshrestha/YAMS): audio synthesis in Python.
-- [nischalshrestha/kashikoi](https://github.com/nischalshrestha/kashikoi): music theory friend.
+- [tr808-pi](https://github.com/nischalshrestha/tr808-pi): A Roland TR-808 drum machine for Sonic Pi.
 - [sonic pi jams](https://www.youtube.com/channel/UCuGoH54n9UCn8ez7NjjhyMA/videos): some of my Sonic Pi compositions.
 
 ---
