@@ -4,8 +4,6 @@ I am Nischal, a Python/R developer.
 
 I enjoy building useful tools for software engineers, data scientists, educators, and musicians.
 
-📢 **Currently looking for new opportunities!** Please reach out to me if you know of anything that might be a good fit.
-
 ---
 
 **Software** :man_technologist: 
