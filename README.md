@@ -1,8 +1,6 @@
 # Hello! :wave:
 
-I am Nischal, a Python/R developer.
-
-I enjoy building useful tools for software engineers, data scientists, educators, and musicians.
+I am Nischal, a Software Engineer with a passion for building useful and creative tools.
 
 ---
 
@@ -24,4 +22,4 @@ I also enjoy combining my interest in music with code. :notes:
 
 **Contact** :mailbox:
 
-Please feel to reach out via [email](mailto:nsrocker92@gmail.com) or twitter [@nischaldesign](https://twitter.com/nischaldesign).
+Please feel to reach out via [email](mailto:nsrocker92@gmail.com)
